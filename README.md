@@ -1,0 +1,2 @@
+# dolory
+personal blog
